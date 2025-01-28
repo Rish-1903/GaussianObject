@@ -16,7 +16,6 @@ ipykernel
 trimesh
 roma
 ./submodules/diff-gaussian-rasterization
-./submodules/diff-gaussian-rasterization-w-pose
 ./submodules/simple-knn
 ./submodules/pytorch3d
 ./submodules/minLoRA
